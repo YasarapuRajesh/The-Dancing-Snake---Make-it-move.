@@ -9,8 +9,6 @@ This is a simple implementation of the classic Snake game using HTML, CSS, and J
 - [How to Play](#how-to-play)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## About the Game
 
